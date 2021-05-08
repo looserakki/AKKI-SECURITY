@@ -26,11 +26,11 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 
 PM_START_TEXT = """
-**Hello {}, My Name is {}!** 
+**⚜️Hello {}, My Name is 𝙏𝙀𝙍𝘼 𝘽𝘼𝘼𝙋 𝙋𝙍𝙄𝙉𝘾𝙀** 
 
-I am Tera Baap Group management bot.
+⚜️I am 𝙏𝙀𝙍𝘼 𝘽𝘼𝘼𝙋  Group management bot. Managed by @PRINCE_3011
 
-You can find the list of available commands with /help.
+⚜️You can find the list of available commands with /help.
 
 
 """
