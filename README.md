@@ -2,7 +2,7 @@
 
 ### DEPLOYMENT
 
-DEPLOY HERE - [TERA BAAP](https://heroku.com/deploy?template=https://github.com/prince301102/GRANDROBOT)
+DEPLOY HERE - [TERA BAAP](https://heroku.com/deploy?template=https://github.com/prince301102/TeraBaap)
 [.](https://heroku.com/deploy)
 Credits - [PRINCE](https://t.me/Prince_3011)
 
