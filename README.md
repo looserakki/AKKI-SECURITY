@@ -11,5 +11,5 @@ Check me on [TELEGRAM](https://t.me/PRINCE_TERABAAP_BOT)
 
 <details>
 <summary> CREDITS </summary>
-<h1> PRINCE </h1>
+<h3> PRINCE </h3>
 </details>
