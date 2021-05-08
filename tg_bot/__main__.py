@@ -28,9 +28,9 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 **Hello {}, My Name is {}!** 
 
-⚜️I am 𝙏𝙀𝙍𝘼 𝘽𝘼𝘼𝙋  Group management bot. Managed by @PRINCE_3011
+I am 𝙏𝙀𝙍𝘼 𝘽𝘼𝘼𝙋  Group management bot. Managed by @PRINCE_3011
 
-⚜️You can find the list of available commands with /help.
+You can find the list of available commands with /help.
 
 
 """
@@ -146,7 +146,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                         InlineKeyboardButton(
 
-                            text="Tera Baap Add  to your group",
+                            text=" 𝙏𝙀𝙍𝘼 𝘽𝘼𝘼𝙋  Add  to your group",
 
                             url="t.me/{}?startgroup=true".format(bot.username))
 
@@ -164,7 +164,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                              text="📘 Logs",
 
-                             url="https://t.me/prince_music_chats")
+                             url="https://t.me/terabaap_logs")
 
                      ],
 
