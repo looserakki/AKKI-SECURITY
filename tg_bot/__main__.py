@@ -26,14 +26,9 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 
 PM_START_TEXT = """
-**Hello {}, I am TERA BAAP PRINCE
-
-⚜️ I am an group management bot, an open-source bot that lets i handle your group in your Telegram.
-Maintained by @Prince_3011 ❤
-
-⚜️ For source code Join our support group @PRINCE_MUSIC_CHATS.
-
-⚜️ You can find the list of available commands with /help.
+**Hello {}, My Name is {}!** 
+I am an **SUPERB**  group management bot.
+You can find the list of available commands with /help.
 """
 
 HELP_STRINGS = """
