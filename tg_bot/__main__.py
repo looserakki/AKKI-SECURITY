@@ -144,9 +144,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                             text="Tera Baap Add  to your group",
 
-                            url="t.me/{}?startgroup=true".format(
-
-                                context.bot.username))
+                            url="t.me/{}?startgroup=true".format(bot.username))
 
                     ],
 
