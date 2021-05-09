@@ -1,7 +1,7 @@
 # TERA BAAP PRINCE
 THIS IS GROUP MANAGER BOT.
-## DEPLOYMENT
-### CLICK BELOW IMAGE TO DEPLOY
+# DEPLOYMENT
+## CLICK BELOW IMAGE TO DEPLOY
 [![Deploy](https://telegra.ph/file/de291b670cbaeb085fe8b.jpg)](https://heroku.com/deploy?template=https://github.com/prince301102/terabaap.git)
 
 ## DEPLOY HERE 
