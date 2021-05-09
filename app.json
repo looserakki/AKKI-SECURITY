@@ -46,7 +46,7 @@
       },
 "GRAND_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg"    
+         "value": "https://telegra.ph/file/de291b670cbaeb085fe8b.jpg"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -105,7 +105,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1100231654"
+         "value": ""
       }
    },
    "keywords": [
@@ -114,7 +114,7 @@
       "manager",
       "bot"
    ],
-   "logo": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg",
+   "logo": "https://telegra.ph/file/d1452b6c4152ef6aaea16.jpg",
    "name": "TERA BAAP",
    "repository": "https://github.com/Prince301102/terabaap"
 }
