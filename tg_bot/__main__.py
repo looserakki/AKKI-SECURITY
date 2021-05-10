@@ -28,7 +28,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 **Hello {}, My Name is {}!** 
 
-I am an 𝙏𝙀𝙍𝘼 𝘽𝘼𝘼𝙋  group management bot.
+I am 𝙏𝙄𝘼𝙉𝘼 group management bot.
 
 You can find the list of available commands with /help.
 
@@ -56,7 +56,7 @@ Hello! my name *{}*.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-TECHNO_IMG = "https://telegra.ph/file/de291b670cbaeb085fe8b.jpg"
+TECHNO_IMG = "https://telegra.ph/file/cf4f149e4c7992f0f07aa.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
@@ -150,7 +150,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                         InlineKeyboardButton(
 
-                            text=" 𝙏𝙀𝙍𝘼 𝘽𝘼𝘼𝙋  Add  to your group",
+                            text=" 👸𝙏𝙄𝘼𝙉𝘼 Add to your group",
 
                             url="t.me/{}?startgroup=true".format(bot.username))
 
@@ -162,13 +162,13 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                              text="Support Group",
 
-                             url=f"https://t.me/prince_music_chats"),
+                             url=f"https://t.me/prince_bots_support"),
 
                          InlineKeyboardButton(
 
                              text="📘 Logs",
 
-                             url="https://t.me/terabaap_logs")
+                             url="https://t.me/tiana_logs")
 
                      ],
 
@@ -178,7 +178,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                              text="☑️ Source code",
 
-                             url="https://github.com/prince301102/TeraBaap")
+                             url="https://github.com/prince301102/TianaBot")
 
                      ]]))
     else:
