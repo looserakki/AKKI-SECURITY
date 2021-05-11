@@ -28,7 +28,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 **Hello {}, My Name is {}!** 
 
-I am 𝙏𝙄𝘼𝙉𝘼 group management bot.
+I am 𝙏𝙄𝘼𝙉𝘼 group management bot. MAINTAIN BY @PRINCE_3011
 
 You can find the list of available commands with /help.
 
@@ -56,7 +56,7 @@ Hello! my name *{}*.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-TECHNO_IMG = "https://telegra.ph/file/cf4f149e4c7992f0f07aa.jpg"
+TECHNO_IMG = "https://telegra.ph/file/1ab87614d722fd1b68caa.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
